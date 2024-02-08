@@ -1,8 +1,7 @@
 # Passport Eye Demo
-Demo project to test PassportEye python library
+Demo project to test PassportEye python library and Tesseract
 
-
-# conda related commads for this project
+# Conda related commads for this project
 
 ### create a new conda environment
 conda create -n passporteyedemo
