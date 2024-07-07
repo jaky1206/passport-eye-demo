@@ -1,16 +1,35 @@
 # Passport Eye Demo
-Demo project to test PassportEye python library and Tesseract
 
-# Conda related commads for this project
+## Overview
+This repository contains a demo project to test the PassportEye python library and Tesseract OCR.
 
-### create a new conda environment
+## Conda Environment Setup
+
+### Create a new conda environment
+```shell
 conda create -n passporteyedemo
- 
-### activate environment
+```
+
+### Activate the environment
+```shell
 conda activate passporteyedemo
+```
 
-### export configuration to a file
+### Export configuration to a file
+```shell
 conda env export > passporteyedemo.yml
+```
 
-### create a new conda environment from config file
-conda env create  -f passporteyedemo.yml
+### Create a new conda environment from the config file
+```shell
+conda env create -f passporteyedemo.yml
+```
+
+## Conda Environment Setup
+Repository Structure
+- .gitignore: Contains files and directories to be ignored by git.
+- README.md: Provides information about the project and setup instructions.
+- main.py: The main Python script for the demo.
+
+# Languages
+- Python
