@@ -31,5 +31,8 @@ Repository Structure
 - README.md: Provides information about the project and setup instructions.
 - main.py: The main Python script for the demo.
 
-# Languages
+## Languages
 - Python
+
+## Acknowledgments
+- https://ourcodeworld.com/articles/read/656/how-to-retrieve-machine-readable-zones-from-a-passport-image-with-python-using-the-passporteye-library
